@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Retrofit2的最佳实践</string>
+    <string name="use_get">用Retrofit的Get方法请求Gank妹子</string>
+    <string name="use_post">用Retrofit的Post方法验证逼乎登录信息</string>
+    <string name="up_load">用Retrofit的Post方法上传图片(贴图库)</string>
+    <string name="down_load">用Retrofit的Get方法下载图片(贴图库)</string>
+</resources>
